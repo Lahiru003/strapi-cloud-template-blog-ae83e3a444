@@ -24,9 +24,7 @@
       "type": "text"
     },
     "longDescription": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.rich-text"
+      "type": "richtext"
     },
     "features": {
       "type": "json"
