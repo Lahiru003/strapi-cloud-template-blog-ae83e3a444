@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_pricing_tiers",
+  "info": {
+    "displayName": "Tier",
+    "icon": "shopping-bag",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
+
+
