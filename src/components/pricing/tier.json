@@ -12,7 +12,7 @@
       "required": true
     },
     "price": {
-      "type": "integer",
+      "type": "string",
       "required": true
     },
     "billing": {
